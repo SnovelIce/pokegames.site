@@ -1,0 +1,44 @@
+@font-face {
+  font-family: PokeHollow;
+  src: url(PokemonHollow.ttf);
+  font-weight: bold;
+}
+@font-face {
+  font-family: PokeSolid;
+  src: url(PokemonSolid.ttf);
+  font-weight: bold;
+}
+body {
+  background-color: lightblue;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+
+i {
+  color: red;
+  font-family: PokeSolid;
+  font-size: 50px;
+  text-decoration: none;
+}
+a {
+  color: darkblue;
+  font-family: PokeSolid;
+  font-size: 50px;
+  text-decoration: none;
+}
+select {
+  color: rgb(149, 149, 230);
+  font-family: PokeSolid;
+  font-size: 20px;
+  text-decoration: none;
+
+}
+button {
+  background-color: rgb(37, 37, 164);
+  color: rgb(149, 149, 230);
+  font-family: PokeSolid;
+  font-size: 24px;
+  text-decoration: none;
+}
